@@ -28,6 +28,15 @@
 
 ---
 
+## 💻 Don't Have a Spare Android Phone? Use Our Windows PC Version!
+
+> **⚡ Have a Windows PC or Laptop instead of a second Android phone?**
+> Use our official **[ROM Flasher Tool for PC (Windows .EXE)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC)** — featuring Apple Liquid Glass UI, 1-Click Fastboot + Anti-Rollback (ARB) Bypass, Wireless ADB (QR & Auto-Discover), Smart Mi Account Bootloader Unlock, KernelSU / Magisk / APatch / SukiSU Ultra Root Studio, Qualcomm 9008 EDL & MTK BROM Unbrick Flasher, and Structured IMEI/EFS Backup!
+
+👉 **[📥 Download ROM Flasher Tool for PC (Latest .EXE)](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC/releases/latest)** • **[📖 View PC Repo](https://github.com/Rohit-Bhai-Youtube/ROM_Flasher_Tool_For_PC)**
+
+---
+
 ## ⚡ Why ROM Flasher Tool?
 
 Traditional Android flashing requires a PC, ADB/Fastboot drivers, platform-tools, and command-line knowledge. **ROM Flasher Tool** eliminates all of that by turning your spare Android phone into a high-speed, portable flashing deck:
