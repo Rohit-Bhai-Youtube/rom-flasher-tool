@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Android Fastboot and ADB Vendor IDs (Google, Xiaomi/Poco, Qualcomm, MTK, Samsung, OnePlus) -->
+    <usb-device class="255" subclass="66" protocol="1" />
+    <usb-device class="255" subclass="66" protocol="3" />
+    <!-- Xiaomi / Poco Vendor ID: 0x2717 -->
+    <usb-device vendor-id="10007" />
+    <!-- Google / Generic Fastboot: 0x18d1 -->
+    <usb-device vendor-id="6353" />
+    <!-- Qualcomm Fastboot / EDL: 0x05c6 -->
+    <usb-device vendor-id="1478" />
+    <!-- OnePlus / Oppo: 0x22d9 -->
+    <usb-device vendor-id="8921" />
+    <!-- MediaTek: 0x0e8d -->
+    <usb-device vendor-id="3725" />
+    <!-- Samsung: 0x04e8 -->
+    <usb-device vendor-id="1256" />
+</resources>
